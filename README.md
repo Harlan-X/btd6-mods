@@ -1,2 +1,2 @@
-# btd6-mods
-A repo of all of my mods for Bloons TD 6.
+# btd6-mods #
+(A repository for all of my Bloons TD 6 mods.)
